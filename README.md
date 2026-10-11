@@ -1,4 +1,4 @@
-\# DevOps Git Challenge
+\DevOps Git Challenge
 
 
 
@@ -6,13 +6,13 @@ This repository demonstrates practical Git and GitHub workflows.
 
 
 
-\## Files
+\Files
 
 \- deploy.sh: Basic deployment script.
 
 
 
-\## Branches
+\Branches
 
 \- main: Main project branch.
 
